@@ -1,0 +1,7 @@
+coords = 13.21 , 55.71
+
+Webb messesage = error 405 Method not Allowed
+
+templates/index.html calls 'get_location' för att rita ut dronen på webbsidan
+
+varje movement flyttar dronen med 1/1000 long/lang enhet
